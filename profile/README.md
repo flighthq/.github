@@ -1,6 +1,6 @@
 <h1 align="center">Flight</h1>
 
-<p align="center">A graphics and application SDK for AI agents.</p>
+<p align="center">A TypeScript SDK designed for AI agents.</p>
 <p align="center"><em>explicit · grepable · nothing hidden</em></p>
 
 ---
